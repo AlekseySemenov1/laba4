@@ -1,0 +1,58 @@
+.loginForm{
+    padding: 10px 0 10px 0;
+    text-align: center;
+    background-color: white;
+    font-size: 150%;
+    margin: 10% 30% 0 30%;
+    border-radius: 20px;
+}
+
+
+#Submit{
+    font-family: "Monotype Corsiva";
+    background-color: #2cbeff;
+    font-size: 110%;
+    border-radius: 10px;
+    width: 150px;
+    padding: 5px;
+}
+
+#Register{
+    font-family: "Monotype Corsiva";
+    background-color: #2cbeff;
+    font-size: 110%;
+    border-radius: 10px;
+    width: 20vw;
+    padding: 5px;
+}
+
+.ButtonBlock {
+    background-color: white;
+    display: inline-block;
+    margin: 10px 10px;
+    font-size: 60%;
+}
+
+input[type='text'], input[type='password']{
+    display: inline-block;
+    height: 25px;
+    width: 35%;
+}
+
+text{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.login{
+    margin: 10px;
+}
+
+#MessageTable{
+    margin: auto;
+}
+
+#ErrorMessage{
+    text-align: center;
+    color: red;
+}

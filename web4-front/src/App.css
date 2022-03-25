@@ -1,0 +1,15 @@
+body{
+  font-family: "Monotype Corsiva";
+  background-color: #8438bd;
+  margin: 0;
+  padding: 0;
+}
+
+#main{
+  text-align: center;
+  width: 100%;
+}
+
+#WorkBlock{
+  display: inline;
+}

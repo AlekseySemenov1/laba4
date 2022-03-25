@@ -1,0 +1,16 @@
+#AnswerTable{
+    min-width: 540px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: aqua;
+    width: 85%;
+    border-spacing: 0;
+    margin: auto;
+    font-size: 1.5vw;
+}
+
+#AnswerTable td{
+    border: 2px solid black;
+    text-align: center;
+    width: 25%;
+}

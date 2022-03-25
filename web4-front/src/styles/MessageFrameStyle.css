@@ -1,0 +1,24 @@
+#MessageFrameBlock{
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    margin: 100px auto;
+    border-radius: 40px;
+}
+
+#BackButtonBlock{
+    margin: 10% 0 10%;
+}
+
+#Message{
+    margin: 20% 0 10% 0;
+    font-size: 20px;
+}
+
+#BackButton{
+    font-size: 20px;
+    font-family: "Monotype Corsiva";
+    background-color: #69e7ff;
+    border-radius: 20px;
+}

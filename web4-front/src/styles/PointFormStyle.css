@@ -1,0 +1,94 @@
+#Points{
+    align-content: center;
+    display: inline-block;
+    margin: auto;
+    width: 50%;
+    height: 50%;
+    min-width: 580px;
+    min-height: 540px;
+    text-align: center;
+}
+
+#InputsBlock{
+    width: 540px;
+    height: 540px;
+    border: 1px solid black;
+    border-radius: 10%;
+    background-color: white;
+    margin: auto;
+}
+
+.XCoordinateTable{
+    margin: 10px 15% 5%;
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 70%;
+}
+
+.checkboxLabel {
+    color: firebrick;
+    font-size: 20px;
+    padding: 5%;
+    alignment: left;
+}
+
+.XCoordinateTable td, .RadTable td, .YCoordinateTable td {
+    height: 30px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.RadTable{
+    margin: 0 15% 0;
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 70%;
+}
+
+.textLabel {
+    width: 100%;
+}
+
+.CoordinateInput {
+    display: flex;
+    width: 250px;
+    margin: 0 auto;
+}
+
+.YCoordinateTable{
+    margin: 0% 30% 5%;
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 40%;
+}
+
+#YInput{
+    margin: 5% 0 5%;
+    width: 80%;
+}
+
+#ButtonsTable{
+    width: 70%;
+    margin: 10% 15% 5% 15%;
+}
+
+#SubmitBut, #Exit{
+    font-family: "Monotype Corsiva";
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #2cbeff;
+}
+
+#ClearBut{
+    font-family: "Monotype Corsiva";
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #ff0738;
+}
+
+#ErrorMessage{
+    font-size: 17px;
+    margin: 10px;
+    text-align: center;
+    color: red;
+}
